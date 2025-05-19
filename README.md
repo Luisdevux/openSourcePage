@@ -9,4 +9,4 @@ Este projeto foi criado com o objetivo de colocar em prática os aprendizados co
 Para visualizar o projeto, abra: https://luisdevux.github.io/openSourcePage/
 
 ## ©️Licença
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
+Este projeto está licenciado sob a licença [MIT](https://choosealicense.com/licenses/mit/). Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
