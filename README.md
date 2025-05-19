@@ -6,7 +6,7 @@ Este projeto foi criado com o objetivo de colocar em prática os aprendizados co
 ##### -CSS3: Estilização e design responsivo.
 
 ## ▶️Visualização
-Para visualizar o projeto, abra: https://luisdevux.github.io/openSourcePage/
+Para visualizar o projeto, clone o projeto e abra localmente.
 
 ## ©️Licença
 Este projeto está licenciado sob a licença [MIT](https://choosealicense.com/licenses/mit/). Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
