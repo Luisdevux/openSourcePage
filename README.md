@@ -1,12 +1,12 @@
-✅Objetivo
+## ✅Objetivo
 Este projeto foi criado com o objetivo de colocar em prática os aprendizados com front end utilizando as tecnologias html, css e javascript. Com isso foi um projeto um pouco mais elaborado contendo cards, hover de links e responsividade.
 
-🛠️Tecnologias Utilizadas
--HTML5: Estruturação das páginas.
--CSS3: Estilização e design responsivo.
+## 🛠️Tecnologias Utilizadas
+##### -HTML5: Estruturação das páginas.
+##### -CSS3: Estilização e design responsivo.
 
-▶️Visualização
+## ▶️Visualização
 Para visualizar o projeto, abra: https://luisdevux.github.io/openSourcePage/
 
-©️Licença
+## ©️Licença
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
