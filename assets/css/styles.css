@@ -29,8 +29,10 @@ input[type= "search"] {
     color: rgba(206, 206, 206, 1);
     font-size: 16px;
     margin: 17px 20px;
-    background: url(/assets/images/lupa.svg) right no-repeat;
+    background: url(/assets/images/lupa.svg) no-repeat;
+    background-position: right 14px center;
 }
+
 
 .card-container {
     display: flex;
@@ -53,7 +55,6 @@ input[type= "search"] {
     width: 166px;
     height: 116px;
 }
-
 
 .card-banner-1 {
     display: flex;
@@ -180,6 +181,7 @@ input[type= "search"] {
     color: white;
 }
 
+
 .footer-conteudo {
     display: flex;
     background-color: rgba(32, 33, 36, 1);
@@ -191,31 +193,27 @@ input[type= "search"] {
 }
 
 footer .p1 {
-    display: flex;
     padding: 29px 20px;
 }
 
 footer .p2 {
-    display: flex;
     padding:  8px 20px;
 }
 
 footer .p3 {
-    display: flex;
     padding: 36px 20px;
 }
 
 footer .p4 {
-    display: flex;
     padding: 8px 20px;
 }
 
 footer a {
-    text-decoration: none;
+    text-decoration:underline;
     color: rgba(241, 241, 241, 1);
 }
 
-footer a:hover {
+.text-link-footer:hover {
     background-color: rgba(234, 221, 103, 1);
     color: rgba(32, 33, 36, 1);
     padding: 0 6px;
